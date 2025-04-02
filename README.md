@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamessp007
 - 👀 I’m interested in ...Linux
-- 🌱 I’m currently learning ...RHEL 8 + OpenMediaVault  
+- 🌱 I’m currently learning ...Proxmox VE + OpenMediaVault  
 - 💞️ I’m looking to collaborate on ... OMV
 - 📫 How to reach me ... jamessp007@gmail.com
 
